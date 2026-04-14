@@ -28,7 +28,7 @@ The dashboard helps stakeholders understand key metrics and make **data-driven b
 * Supports sales strategy optimization
 * Enables better inventory and planning decisions
 * Improves understanding of customer demand
-## 🧠 Learnings
+## Learnings
 * Built dynamic and interactive dashboards
 * Applied DAX for KPI calculations
 * Improved data storytelling and visualization skills
